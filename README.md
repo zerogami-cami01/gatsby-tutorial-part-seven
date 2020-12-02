@@ -15,4 +15,5 @@
 
 3.  **How was it?**
 
-    
+    I　created a blog function!
+    I'll try playing more with the site.
